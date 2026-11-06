@@ -4,6 +4,7 @@
   "description": "Banesco Banco Universal",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'Static build complete'",
     "start": "node server.js"
   },
   "dependencies": {
