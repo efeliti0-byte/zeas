@@ -1,0 +1,12 @@
+{
+  "name": "banesco-web",
+  "version": "1.0.0",
+  "description": "Banesco Banco Universal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
